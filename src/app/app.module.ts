@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { Table1Component } from './Table1/Table1.component';
+
 
 @NgModule({
   imports: [BrowserModule, FormsModule],
