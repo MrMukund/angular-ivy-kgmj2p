@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 @Component({
-  selector: 'tablecontent',
+  selector: 'Table1',
   templateUrl: './Table1.component.html',
   styleUrls: ['./Table1.component.css'],
 })
