@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   templateUrl: './Table1.component.html',
   styleUrls: ['./Table1.component.css'],
 })
-export class tablecontentComponent {
+export class Table1Component {
   public headers = ['Name', 'rollno'];
 
   public rows = [
